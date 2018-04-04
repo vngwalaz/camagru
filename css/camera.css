@@ -1,0 +1,10 @@
+.camera {
+    border-color: red;
+}
+
+.main-cam {
+    background-image: url("../img/Blur.jpg");
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: 100%;
+}
